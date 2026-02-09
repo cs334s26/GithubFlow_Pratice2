@@ -1,4 +1,6 @@
 # GithubFlow_Pratice2
+##Contributors  
+
 - Jalil Rodriguez
 #21
 hobby: Cars
@@ -9,4 +11,4 @@ Computer Science
 Love tech & Finance
 Computer Science 
 
-- Moravian University, Bethlehem PA
+## Location:  Moravian University, Bethlehem PA
