@@ -1,10 +1,12 @@
 # GithubFlow_Pratice2
-Jalil Rodriguez
+- Jalil Rodriguez
 #21
 hobby: Cars
 Computer Science
-Louis Spann
+
+- Louis Spann
 #22
-Love tech
+Love tech & Finance
 Computer Science 
-Moravian University
+
+- Moravian University, Bethlehem PA
